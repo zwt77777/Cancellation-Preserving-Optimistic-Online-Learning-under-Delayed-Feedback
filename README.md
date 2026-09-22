@@ -1,5 +1,9 @@
 # Cancellation-Preserving-Optimistic-Online-Learning-under-Delayed-Feedback
 
+
+This repository provides supplementary material for the paper:
+W. Zhang, W. Huang, W. Mo, C. Li, and T. Xiong, “Cancellation-Preserving Optimistic Online Learning under Delayed Feedback,” submitted to 2027 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
 ## Citation
 
 ```bibtex
